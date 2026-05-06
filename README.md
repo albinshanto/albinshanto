@@ -1,6 +1,6 @@
 # <p align="center">👋 Hey there! I'm Albin A S </p>
 
-🎓 *BCA Student | AI Enthusiast | Tech Explorer* 
+🎓 *BCA Student |  Aspiring Mern Stack Developer | Tech Explorer* 
 
 ---
 
