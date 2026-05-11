@@ -6,7 +6,7 @@
 
 ### 💡 About Me
 - 📘 Currently pursuing *Bachelor of Computer Applications (BCA)*
-- 🤖 Passionate about *Artificial Intelligence and Machine Learning*
+- 🤖 Passionate about *Aspiring MERN stack developer*
 - 💻 Love to explore new technologies and build creative projects
 - 🚀 Always curious to learn, experiment, and grow
 
